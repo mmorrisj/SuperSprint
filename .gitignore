@@ -1,3 +1,6 @@
+# SuperSprint runtime state (tickets, evidence chains, control flags)
+.supersprint/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

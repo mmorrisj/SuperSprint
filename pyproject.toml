@@ -1,0 +1,10 @@
+[project]
+name = "supersprint"
+version = "0.1.0"
+description = "Governed AI DevSecOps core — ticket -> sandbox -> independent verify -> sealed evidence"
+requires-python = ">=3.11"
+dependencies = ["PyYAML>=6.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
